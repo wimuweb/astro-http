@@ -1,4 +1,24 @@
 {
-  "recommendations": ["astro-build.astro-vscode", "unifiedjs.vscode-mdx"],
+  "recommendations": [
+    "imgildev.vscode-astro-pack",
+  "quicktype.quicktype",
+  "mikestead.dotenv",
+  // "inu1255.easy-snippet",
+  "usernamehw.errorlens",
+  "qwtel.sqlite-viewer",
+  "naumovs.color-highlight",
+  "ecmel.vscode-html-css",
+  "bradlc.vscode-tailwindcss",
+  "Zignd.html-css-class-completion",
+  "ChakrounAnas.turbo-console-log",
+  "WallabyJs.console-ninja",
+  "GitHub.github-vscode-theme",
+  "PKief.material-icon-theme",
+  "mrmlnc.vscode-csscomb",
+  "HTMLHint.vscode-htmlhint",
+  "Supermaven.supermaven",
+  "Orta.vscode-jest",
+  "rvest.vs-code-prettier-eslint"
+],
   "unwantedRecommendations": []
 }
